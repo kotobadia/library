@@ -19,6 +19,7 @@
 ## 収録ファイル
 - [tankanohi-award-winners-2025.md](./tankanohi-award-winners-2025.md)：短歌の日大賞2025入賞者情報
 - [awards.csv](./awards.csv)：全受賞作品と受賞者情報の一覧
+- [judges.csv](.judges.csv)：選者一覧
 
 ## 著作権・ライセンス
 各作品の著作権は作者に帰属します。  
