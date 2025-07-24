@@ -24,9 +24,9 @@
 
 ## 収録ファイル
 - [top-20-winners.md](./preliminary/top-20-winners.md)：短歌バトル2025予選 - トップ20
-- [day1.csv](./preliminary/day1.csv)：短歌バトル2025予選 - 1日目 詠草リスト
-- [day2.csv](./preliminary/day2.csv)：短歌バトル2025予選 - 2日目 詠草リスト
-- [day3.csv](./preliminary/day3.csv)：短歌バトル2025予選 - 3日目 詠草リスト
+- [day1.csv](./preliminary/day1.csv)：短歌バトル2025予選 - 1日目 詠草リスト　お題「窓」
+- [day2.csv](./preliminary/day2.csv)：短歌バトル2025予選 - 2日目 詠草リスト　テーマ「はねる」
+- [day3.csv](./preliminary/day3.csv)：短歌バトル2025予選 - 3日目 詠草リスト　テーマ「恐ろしさを感じる短歌」
 
 
 ## 著作権・ライセンス
