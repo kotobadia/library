@@ -1,0 +1,16 @@
+投稿作品ライセンス
+
+本リポジトリに含まれる投稿作品の著作権について：
+
+1. 各作品の著作権は、それぞれの作者に帰属します。
+2. 作品の利用については、各作者の許可が必要です。
+3. 本データベースの編集・整理作業について、運営者である次世代文学・次世代短歌は著作権を主張しません。
+4. CSVファイルの構造やデータベース設計については、パブリックドメインとして扱います。
+5. 作品ごとのライセンス表記がある場合はそちらを優先してください
+
+Individual Copyright Notice:
+Each creative work in this collection is copyrighted by its respective author.
+Any use of these works requires permission from the individual authors.
+The compilation and database structure are released without copyright claims by the organizer, Jisedai Bungaku・Jisedai Tanka (Next Generation Literature・Next Generation Tanka).
+
+連絡先: [tankazine@gmail.com]
