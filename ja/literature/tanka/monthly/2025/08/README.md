@@ -18,6 +18,8 @@
 - [series-regular.csv](./series-regular.csv): 連作部門
 - [series-three.csv](./series-three.csv): 三首連作部門
 
+## 選評一覧
+- [review.csv](./review.csv): 選評一覧(CSV)
 
 ## 著作権
 各作品の著作権は作者に帰属します。  
