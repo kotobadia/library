@@ -1,4 +1,4 @@
-# 毎月短歌24:テーマ詠「花火」部門
+# 毎月短歌25:テーマ詠「花火」部門
 ## Geminiによる5首の選評:
 お題「花火」で投稿された181首の短歌、拝読いたしました。夏の風物詩である「花火」を、実に様々な角度から捉えた魅力的な作品ばかりでした。打ち上げ花火の壮大さ、線香花火の儚さ、それらを取り巻く人々の人間模様や内面の風景が、三十一音という短い詩形の中に鮮やかに描き出されています。
 
@@ -52,11 +52,11 @@
 ### 実行設定
 - **使用モデル**: Gemini
 - **設定ファイル**: ./model_selection_conf.yaml
-- **応募企画**: 毎月短歌24:テーマ詠「花火」部門
+- **応募企画**: 毎月短歌25:テーマ詠「花火」部門
 - **選択数**: 5
 - **オプション**: TTS生成
 
 ### 実行コマンド
 ```bash
-python selection.py input/library/ja/literature/tanka/monthly/2025/08/theme-fireworks.csv output/  -i Gemini -n 5 -a 毎月短歌24:テーマ詠「花火」部門  -t 花火 --tts
+python selection.py input/library/ja/literature/tanka/monthly/2025/08/theme-fireworks.csv output/  -i Gemini -n 5 -a 毎月短歌25:テーマ詠「花火」部門  -t 花火 --tts
 ```

@@ -1,4 +1,4 @@
-# 毎月短歌24:7月自選部門
+# 毎月短歌25:7月自選部門
 ## Geminiによる5首の選評:
 お預かりした488首の短歌、いずれも作者の個性が光る素晴らしい作品ばかりでした。現代的な感性、鋭い観察眼、豊かな物語性、そして言葉の選び方の巧みさに感心しながら、一首一首じっくりと拝読いたしました。
 膨大な力作の中から、特に私の心を捉えた5首を選び、以下にコメントを記します。
@@ -56,12 +56,12 @@
 ### 実行設定
 - **使用モデル**: Gemini
 - **設定ファイル**: ./model_selection_conf.yaml
-- **応募企画**: 毎月短歌24:7月自選部門
+- **応募企画**: 毎月短歌25:7月自選部門
 - **選択数**: 5
 - **オプション**: TTS生成
 
 ### 実行コマンド
 ```bash
-selection.py input/library/ja/literature/tanka/monthly/2025/08/selected.csv output/ -i Gemini -n 5 -a 毎月短歌24:7月自選部門 --tts
+selection.py input/library/ja/literature/tanka/monthly/2025/08/selected.csv output/ -i Gemini -n 5 -a 毎月短歌25:7月自選部門 --tts
 ```
 
