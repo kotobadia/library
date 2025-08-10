@@ -6,6 +6,10 @@
 - 企画詳細：[毎月短歌24詳細ページ](https://blog.kotobadia.com/2196)
 - 企画主催：[次世代短歌](https://blog.kotobadia.com/)
 
+## 選評一覧
+### 人間選者
+- [review.csv](.review/human/review.csv): 選評一覧(CSV)
+
 ## 部門
 - [selected.csv](./selected.csv): 6月の自選短歌部門
 - [series-regular.csv](./series-regular.csv): 連作部門

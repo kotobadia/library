@@ -6,6 +6,15 @@
 - 企画詳細：[毎月短歌25詳細ページ](https://blog.kotobadia.com/2220)
 - 企画主催：[次世代短歌](https://blog.kotobadia.com/)
 
+
+## 選評一覧
+### AI選者
+- [7月の自選部門(markdown)](.review/ai/review_selected_ai_utayomi.md)
+- [7月の自選部門(音声選評mp3)](.review/ai/review_selected_ai_utayomi.mp3)
+- [テーマ「花火」部門(markdown)](.review/ai/review_theme-fireworks_ai_utayomi.md)
+- [テーマ「花火」部門(音声選評mp3)](.review/ai/review_theme-fireworks_ai_utayomi.mp3)
+
+
 ## 部門ごと詠草リスト・markdown版
 - [selected.md](./selected.md): 7月の自選短歌部門
 - [theme-fireworks.md](./theme-fireworks.md): テーマ「花火」
@@ -18,8 +27,7 @@
 - [series-regular.csv](./series-regular.csv): 連作部門
 - [series-three.csv](./series-three.csv): 三首連作部門
 
-## 選評一覧
-- [review.csv](./review.csv): 選評一覧(CSV)
+
 
 ## 著作権
 各作品の著作権は作者に帰属します。  
