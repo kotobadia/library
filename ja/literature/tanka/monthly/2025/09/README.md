@@ -11,13 +11,13 @@
 
 ## 部門ごと詠草リスト・markdown版
 - [selected.md](./selected.md): 8月の自選短歌部門
-- [theme-fireworks.md](./theme.md): テーマ「かなしみ」
+- [theme.md](./theme.md): テーマ「かなしみ」
 - [series-regular.md](./series-regular.md): 連作部門
 - [series-three.md](./series-three.md): 三首連作部門
 
 ## 部門ごと詠草リスト・CSV版
 - [selected.csv](./selected.csv): 8月の自選短歌部門
-- [theme-fireworks.csv](./theme.csv): テーマ「花火」
+- [theme.csv](./theme.csv): テーマ「かなしみ」
 - [series-regular.csv](./series-regular.csv): 連作部門
 - [series-three.csv](./series-three.csv): 三首連作部門
 
