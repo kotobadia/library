@@ -8,6 +8,12 @@
 
 
 ## 選評一覧
+### AI選者
+- [8月の自選部門(markdown)](.review/ai/review_selected_ai_utayomi.md)
+- [8月の自選部門(音声選評mp3)](.review/ai/review_selected_ai_utayomi.mp3)
+- [テーマ「かなしみ」部門(markdown)](.review/ai/review_theme_ai_utayomi.md)
+- [テーマ「かなしみ」部門(音声選評mp3)](.review/ai/review_theme_ai_utayomi.mp3)
+
 
 ## 部門ごと詠草リスト・markdown版
 - [selected.md](./selected.md): 8月の自選短歌部門
