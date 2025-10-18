@@ -6,6 +6,13 @@
 - 企画詳細：[毎月短歌27詳細ページ](https://blog.kotobadia.com/2222)
 - 企画主催：[次世代短歌](https://blog.kotobadia.com/)
 
+## 選評一覧
+### AI選者
+- [9月の自選部門(markdown)](./review/ai/review_selected_ai_utayomi.md)
+- [9月の自選部門(音声選評mp3)](./review/ai/review_selected_ai_utayomi.mp3)
+- [テーマ「空」部門(markdown)](./review/ai/review_theme_ai_utayomi.md)
+- [テーマ「空」部門(音声選評mp3)](./review/ai/review_theme_ai_utayomi.mp3)
+
 ## 部門ごと詠草リスト・markdown版
 - [selected.md](./selected.md): 9月の自選短歌部門
 - [theme.md](./theme.md): テーマ「空」
