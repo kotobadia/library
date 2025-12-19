@@ -23,9 +23,7 @@
 ## 選評一覧
 ### AI選者（まだファイルはありません）
 - [10月の自選部門(markdown)](./review/ai/review_selected_ai_utayomi.md)
-- [10月の自選部門(音声選評mp3)](./review/ai/review_selected_ai_utayomi.mp3)
 - [テーマ「微熱」部門(markdown)](./review/ai/review_theme_ai_utayomi.md)
-- [テーマ「微熱」部門(音声選評mp3)](./review/ai/review_theme_ai_utayomi.mp3)
 
 ## 著作権
 各作品の著作権は作者に帰属します。  
