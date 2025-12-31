@@ -8,13 +8,13 @@
 
 
 ## 部門ごと詠草リスト・markdown版
-- [selected.md](./selected.md): 10月の自選短歌部門
+- [selected.md](./selected.md): 11月の自選短歌部門
 - [theme.md](./theme.md): テーマ「微熱」
 - [series-regular.md](./series-regular.md): 連作部門
 - [series-three.md](./series-three.md): 三首連作部門
 
 ## 部門ごと詠草リスト・CSV版
-- [selected.csv](./selected.csv): 10月の自選短歌部門
+- [selected.csv](./selected.csv): 11月の自選短歌部門
 - [theme.csv](./theme.csv): テーマ「微熱」
 - [series-regular.csv](./series-regular.csv): 連作部門
 - [series-three.csv](./series-three.csv): 三首連作部門
